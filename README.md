@@ -50,6 +50,7 @@ The baseline is evaluated using:
 
 ## Project Structure
 
+```text
 SIH-26052/
 │
 ├── scripts/
@@ -65,8 +66,9 @@ SIH-26052/
 │
 ├── dataset/        # Local dataset (not uploaded)
 ├── output/         # Generated outputs (not uploaded)
-├── models/         # Local models (not uploaded)
-└── defence_noise/  # Local noise files (not uploaded)
+├── models/        # Local models (not uploaded)
+└── defence_noise/ # Local noise files (not uploaded)
+```
 
 Dataset, audio files, generated outputs, and model files are kept locally and excluded from the repository because of their size.
 
