@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+output/
+results/
+models/
+defence_noise/
+
+*.wav
+*.flac
+*.mp4
